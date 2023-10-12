@@ -1,12 +1,12 @@
 public class Hello {
-    public int testVar = 10;
 
     public static void main(String[] args) {
+        System.out.println("Hello World!");
         Hello hello = new Hello();
-        hello.testMethod();
+        hello.lernen();
     }
 
-    public void testMethod() {
-        System.out.println(testVar);
+    void lernen() {
+
     }
 }
