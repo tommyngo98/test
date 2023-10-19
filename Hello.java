@@ -9,8 +9,4 @@ public class Hello {
     public void testMethod() {
         System.out.println(testVar);
     }
-
-    public void anotherMethod() {
-        int i = 2;
-    }
 }
